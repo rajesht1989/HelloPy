@@ -14,3 +14,26 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+print("Hello, World!")
+
+if 5 > 2:
+    print("Ofcourse it's")
+
+x = 5
+y = "Rajesh"
+
+print(x, y)
+
+#Comments
+
+"""
+Multiline comments
+"""
+
+print(type(x))
+print(type(y))
+
+a,b,c = 'Rajesh',"Pugazh","Vetri"
+
+print(a,b,c)
